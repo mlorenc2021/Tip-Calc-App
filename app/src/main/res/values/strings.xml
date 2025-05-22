@@ -1,0 +1,25 @@
+<!--    /*
+    Partners:
+    Milena Zlaticanin - Z1847022
+    Matthew Lorenc - Z1904531
+    CSCI 322
+    Portfolio 2
+    Due: 02/11/22
+ */-->
+<resources>
+    <string name="app_name">Portfolio 2</string>
+
+    <string name="label_bill">Bill</string>
+    <string name="label_tip_percent">Tip (%)</string>
+    <string name="label_tip">Tip ($)</string>
+    <string name="label_total">Total</string>
+
+    <string name="hint_bill_amount">Enter bill amount</string>
+    <string name="hint_tip_percent">Enter tip %</string>
+    <string name="help_information">This application will calculate the tip and total
+    bill amount after the user has entered the initial bill and desired tip percentage.
+    \n\n\nThe tip percentage is entered as a whole number.
+        \n\n\nThis application will tilt to the side if you want it to.\n\n\n
+        \n\n\nThis app was created in CSCI 322 Mobile Programming in Android\n\n
+    </string>
+</resources>
