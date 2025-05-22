@@ -42,4 +42,3 @@ The user inputs the bill amount and a tip percentage, and the app dynamically ca
 2. Enter the tip percentage in the second input field.
 3. The tip and total will be calculated and displayed automatically.
 4. Tap the Help button for instructions or info.
-5. Use the clear button (if implemented in UI) to reset inputs.
